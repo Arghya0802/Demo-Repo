@@ -1,0 +1,9 @@
+1. Create a gitHub Account.
+2. Create a empty repo in your GitHub
+3. Local System
+	a) User-Name: "Arghya0802"
+	b) User-Email: "chatterjeearghya02@gmail.com"
+
+4. git push -u origin master
+	a) User-Name: Arghya0802
+	b) Password: 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 [Token Generated]
